@@ -1,0 +1,6 @@
+.serena/
+node_modules/
+.env
+dist/
+memory/
+storage/
